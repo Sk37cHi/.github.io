@@ -2,13 +2,12 @@ Package: com.sk37ch.34allzeppelin
 Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: Sk37cH <vee_man@live.com.au>
-Filename: /Users/georgevoysey/Documents/Sofwarez/GitHub/Sk37cH.github.io/debs//4 Zeppelin.deb
-Size: 15802
-MD5sum: 27891e1a085a10433b16071c3ee9aff4
-SHA1: cd2ea917101474fbfb26c70cbaeda5a0fea7bc69
-SHA256: c724122494fe9358b65b8078e0359fd3c3887bdf3f848d888f58f87973eadce6
+Filename: /Users/georgevoysey/Documents/Sofwarez/GitHub/Sk37cHi.github.io//debs/com.sk37ch.34allzeppelin.deb
+Size: 16178
+MD5sum: f0d70a4f7866ba6e8d938479759d7b09
+SHA1: dd4063a0d6f488d1a7f2ce6cf87f4bd6c050c4d6
+SHA256: 8635a9b2351ff11f4a5004880aaadaa71f8042934140a07bd51d197f7311c706
 Section: Zeppelin
-Homepage: https://github.com/Sk37cHi/Sk37cH.github.io/Depic/34allzeppelin/index.html
 Description: Reina Zeppelin Logos.
  A collection of retina supported Zeppelin Logos.
  Vector resized for your viewing pleasure.
