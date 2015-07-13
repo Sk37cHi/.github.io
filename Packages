@@ -1,0 +1,17 @@
+Package: com.sk37ch.34allzeppelin
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Sk37cH <vee_man@live.com.au>
+Filename: debs//com.sk37ch.34allzeppelin.deb
+Size: 15826
+MD5sum: ff76c40e122c139c31537c6e03c157e9
+SHA1: 5d7ba917f2ff1a0516cc745931e12a5d97864f01
+SHA256: e7c378fc02956a795d57379bc10e0177bc1d2808683fe22cce99f776bc0ff03d
+Section: Zeppelin
+Description: Retina Zeppelin Logos.
+ A collection of retina supported Zeppelin Logos.
+ Vector resized for your viewing pleasure.
+Author: Sk37cH <vee_man@live.com.au>
+Depiction: https://Sk37cHi.github.io/Depic/com.sk37ch.34allzeppelin/index.html
+Name: 3 4 All [Zeppelin]
+Icon: file:///Applications/Cydia.app/Sections/Addons.png
