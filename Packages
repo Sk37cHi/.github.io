@@ -1,0 +1,249 @@
+Package: com.modmyi.34all
+Version: 1.8.6
+Architecture: iphoneos-arm
+Maintainer: Sk37cH <vee_man@live.com.au>
+Filename: .//debs/com.sk37ch.34all.deb
+Size: 7546568
+MD5sum: ecefb4161ccd836af667d5e2ac8fa8c5
+SHA1: d07b5e1ff0b636bb311c95c3437e67a9cb6966c7
+SHA256: 19967f89618e189d8d65097f22b2e877eec65142ed5529c4b78c33d5baf00ecc
+Section: Themes (SpringBoard)
+Homepage: https://Sk37cHi.github.io/Depic/com.sk37ch.34all/index.html
+Description: Sk37chi Skins.
+ An icon theme for use with Winterboard.
+ Vector resized for your viewing pleasure.
+Author: Sk37cH <vee_man@live.com.au>
+Depiction: https://Sk37cHi.github.io/Depic/com.sk37ch.34all/index.html
+Icon: file:///Library/Themes/3 4 All.theme/Bundles/com.Preferences.Settings/sk37chicon.png
+Name: 3 4 All
+
+Package: com.modmyi.34allglyphs
+Version: 1.3.5
+Architecture: iphoneos-arm
+Maintainer: Sk37cH <vee_man@live.com.au>
+Filename: .//debs/com.sk37ch.34allglyphs.deb
+Size: 5065982
+MD5sum: 2c74c308d47a2935176ca73a9aed2df0
+SHA1: 51c81747be8c42cb0cd9e0dc705cc744ada7bfdc
+SHA256: a710895552c96d25762ab85478f1b750a811b67b52e1db3d17164ef569008e18
+Section: Themes (SpringBoard)
+Homepage: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyphs/index.html
+Description: Sk37chi Skins.
+ An icon theme for use with Winterboard.
+ Vector resized for your viewing pleasure.
+Author: Sk37cH <vee_man@live.com.au>
+Depiction: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyphs/index.html
+Icon: file:///Library/Themes/3 4 All [Glyphs].theme/Bundles/com.Preferences.Settings/sk37chicon.png
+Name: 3 4 All [Glyphs]
+
+Package: com.modmyi.34allglyphsv2
+Version: 1.3.5
+Architecture: iphoneos-arm
+Maintainer: Sk37cH <vee_man@live.com.au>
+Filename: .//debs/com.sk37ch.34allglyphsv2.deb
+Size: 4770848
+MD5sum: d15fef12d6093e27b1a07e6c480b4cd2
+SHA1: 43ea9cbff4df5f272b1566c6c575a4319e91ffbb
+SHA256: 953a79d333353863900896d9a6d73fafef21612d237a4c39911d955412e32d98
+Section: Themes (SpringBoard)
+Homepage: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyphsv2/index.html
+Description: Sk37chi Skins.
+ An icon theme for use with Winterboard.
+ Vector resized for your viewing pleasure.
+Author: Sk37cH <vee_man@live.com.au>
+Depiction: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyphsv2/index.html
+Icon: file:///Library/Themes/3 4 All [Glyphs v2].theme/Bundles/com.Preferences.Settings/sk37chicon.png
+Name: 3 4 All [Glyphs v2]
+
+Package: com.modmyi.34allglyphsv3
+Version: 1.3.5
+Architecture: iphoneos-arm
+Maintainer: Sk37cH <vee_man@live.com.au>
+Filename: .//debs/com.sk37ch.34allglyphsv3.deb
+Size: 5769180
+MD5sum: f502b29aac5ad2c84be062d9d433cf50
+SHA1: 89c59868007e24ba14a6d0c87117978e3a42f3c9
+SHA256: 7cf1ae5056ee4b3f1dbc894e85be18738bbb7ec91f89129ed3eae825e33609fc
+Section: Themes (SpringBoard)
+Homepage: https://Sk37cHi.github.io/Depic/com.com.sk37ch.34allglyphsv3/index.html
+Description: Sk37chi Skins.
+ An icon theme for use with Winterboard.
+ Vector resized for your viewing pleasure.
+Author: Sk37cH <vee_man@live.com.au>
+Depiction: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyphsv3/index.html
+Icon: file:///Library/Themes/3 4 All [Glyphs v3].theme/Bundles/com.Preferences.Settings/sk37chicon.png
+Name: 3 4 All [Glyphs v3]
+
+Package: com.modmyi.34allglyphsv3ip6
+Version: 1.3.6
+Architecture: iphoneos-arm
+Maintainer: Sk37cH <vee_man@live.com.au>
+Filename: .//debs/com.modmyi.34allglyphsv3ip6.deb
+Size: 10603778
+MD5sum: 7cf0c3b2694e6fef702b4ba82d003191
+SHA1: 32f7b6ca0d6556183c5139ac56eb9c8287261c23
+SHA256: 7ee987295e632dd099d87efc0ba5596412dbd73fac1725781ac99a04ff833e74
+Section: Themes (SpringBoard)
+Homepage: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyphsv3ip6/index.html
+Description: Sk37chi Skins.
+ An icon theme for use with Winterboard.
+ Vector resized for your viewing pleasure.
+Author: Sk37cH <vee_man@live.com.au>
+Depiction: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyphsv3ip6/index.html
+Icon: file:///Library/Themes/3 4 All [Glyphs v3][iP6+].theme/com.Preferences.Settings/sk37chicon.png
+Name: 3 4 All [Glyphs v3][iP6+]
+
+Package: com.modmyi.34allglyphsv5
+Version: 1.3.7
+Architecture: iphoneos-arm
+Maintainer: Sk37cH <vee_man@live.com.au>
+Filename: .//debs/com.sk37ch.34allglyphsv5.deb
+Size: 2516952
+MD5sum: 133ef154eb4208376df0ed7669bc0645
+SHA1: 20844c43360b79eadc5d565ccd22c67fdc3c4843
+SHA256: be2a8fa0924bfe7b10cdc2aaa4f0af910bfe52476e6ba394befc1610db5d6017
+Section: Themes (SpringBoard)
+Homepage: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyphsv5/index.html
+Description: Sk37chi Skins.
+ An icon theme for use with Winterboard.
+ Vector resized for your viewing pleasure.
+Author: Sk37cH <vee_man@live.com.au>
+Depiction: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyphsv5/index.html
+Icon: file:///Library/Themes/3 4 All [Glyphs v5].theme/Bundles/com.Preferences.Settings/sk37chicon.png
+Name: 3 4 All [Glyphs v5]
+
+Package: com.modmyi.34allglyphsv6
+Version: 1.3.5
+Architecture: iphoneos-arm
+Maintainer: Sk37cH <vee_man@live.com.au>
+Filename: .//debs/com.sk37ch.34allglyphsv6.deb
+Size: 3239500
+MD5sum: b3fca875ea7c73952701f755f158a2a9
+SHA1: 0ad5cc0724ffbb5259fdd6722a247b6fb4243f4c
+SHA256: 613cc832dd9eb94dd44a6834430b06bd829e60d2c17f8edb60fa7f9e7f07d11a
+Section: Themes (SpringBoard)
+Homepage: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyphsv6/index.html
+Description: Sk37chi Skins.
+ An icon theme for use with Winterboard.
+ Vector resized for your viewing pleasure.
+Author: Sk37cH <vee_man@live.com.au>
+Depiction: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyphsv6/index.html
+Icon: file:///Library/Themes/3 4 All [Glyphs v6].theme/Bundles/com.Preferences.Settings/sk37chicon.png
+Name: 3 4 All [Glyphs v6]
+
+Package: com.modmyi.34allglyphsv6ip6
+Version: 1.3.6
+Architecture: iphoneos-arm
+Maintainer: Sk37cH <vee_man@live.com.au>
+Filename: .//debs/com.modmyi.34allglyphsv6ip6.deb
+Size: 4454166
+MD5sum: a28d6ce8c04f18b3cc671206621cca4c
+SHA1: af38b28b7df9b53b6b1be1800b90a74612fa0bfd
+SHA256: 5a0dbf9e7bfc38c98fe260a001223b782aa8a9ae8979030b50e201618db877d6
+Section: Themes (SpringBoard)
+Homepage: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyphsv6ip6/index.html
+Description: Sk37chi Skins.
+ An icon theme for use with Winterboard.
+ Vector resized for your viewing pleasure.
+Author: Sk37cH <vee_man@live.com.au>
+Depiction: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyphsv6ip6/index.html
+Icon: file:///Library/Themes/3 4 All [Glyphs v6][iP6+].theme/com.Preferences.Settings/sk37chicon.png
+Name: 3 4 All [Glyphs v6][iP6+]
+
+Package: com.modmyi.34allip6
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Sk37cH <vee_man@live.com.au>
+Filename: .//debs/com.sk37ch.34allip6.deb
+Size: 9042052
+MD5sum: a62b70638a3495a1961d94a4e07cd785
+SHA1: a33dc79671b5386d3b45cb9b02c8a945d123ded8
+SHA256: 03419a752a0453621219ef17559b74ab240a5bc96f16c80ab9d94a773dfafa11
+Section: Themes (SpringBoard)
+Homepage: https://Sk37cHi.github.io/Depic/com.sk37ch.34allip6/index.html
+Description: Sk37chi Skins.
+ An icon theme for iPhone6+.
+ Vector resized for your viewing pleasure.
+Author: Sk37cH <vee_man@live.com.au>
+Depiction: https://Sk37cHi.github.io/Depic/com.sk37ch.34allip6/index.html
+Icon: file:///Library/Themes/3 4 All [iP6+].theme/Bundles/com.Preferences.Settings/sk37chicon.png
+Name: 3 4 All [iP6+]
+
+Package: com.modmyi.34allipad
+Version: 1.8.6
+Architecture: iphoneos-arm
+Maintainer: Sk37cH <vee_man@live.com.au>
+Filename: .//debs/com.sk37ch.34allipad.deb
+Size: 7599506
+MD5sum: 13d291c16d7f771202c0129cde88f958
+SHA1: 246068aaa3faf1dd683851efc5bdb0dd930f2b74
+SHA256: 2c3d55b25f2786cae39f5b77e83f8e7c0a5d5f67756a90e590d8c7f0975f6280
+Section: Themes (SpringBoard)
+Homepage: https://Sk37cHi.github.io/Depic/com.sk37ch.34allipad/index.html
+Description: Sk37chi Skins.
+ An icon theme for Retina iPads.
+ Vector resized for your viewing pleasure.
+Author: Sk37cH <vee_man@live.com.au>
+Depiction: https://Sk37cHi.github.io/Depic/com.sk37ch.34allipad/index.html
+Icon: file:///Library/Themes/3 4 All [iPad].theme/Bundles/com.Preferences.Settings/sk37chicon.png
+Name: 3 4 All [iPad]
+
+Package: com.sk37ch.34allglyhsfuel
+Version: 1.6.0
+Architecture: iphoneos-arm
+Maintainer: Sk37cH <vee_man@live.com.au>
+Conflicts: com.myrepospace.sk37ch.fuel
+Filename: .//debs/com.sk37ch.34allglyhsfuel.deb
+Size: 5765206
+MD5sum: 8b6ac924a9252f1fa71138eea4501e18
+SHA1: 79c163014131c97543a8f22e948e9b84afc397c8
+SHA256: 8a1c460f08871dc426b21e29355747c2ff9af9fbe3b5ad48770186eba23b2a6f
+Section: Themes (SpringBoard)
+Homepage: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyhsfuel/index.html
+Description: Sk37chi Skins.
+ An icon theme for use with Winterboard.
+ Vector resized for your viewing pleasure.
+Author: Dmick <dmick89@gmail.com>
+Depiction: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyhsfuel/index.html
+Icon: file:///Library/Themes/3 4 All [Glyphs Fuel].theme/Bundles/com.Preferences.Settings/sk37chicon.png
+Name: 3 4 All [Glyphs Fuel]
+
+Package: com.sk37ch.34allglyhsfuelip6
+Version: 1.6.1
+Architecture: iphoneos-arm
+Maintainer: Sk37cH <vee_man@live.com.au>
+Conflicts: com.myrepospace.sk37ch.iph6+
+Filename: .//debs/com.sk37ch.34allglyhsfuelip6.deb
+Size: 12817292
+MD5sum: d26aca1582583bffffee64faa9dd046d
+SHA1: dd46092adfa5853d83c176149bd562345b0a405c
+SHA256: 957ac6a02ab145d2dc5573cd0903b8b8161ab71789addd5dbf6ac0a861c76734
+Section: Themes (SpringBoard)
+Homepage: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyhsfuelip6/index.html
+Description: Sk37chi Skins.
+ An icon theme for use with Winterboard.
+ Vector resized for your viewing pleasure.
+Author: Dmick <dmick89@gmail.com>
+Depiction: https://Sk37cHi.github.io/Depic/com.sk37ch.34allglyhsfuelip6/index.html
+Icon: file:///Library/Themes/3 4 All [Glyphs Fuel][iP6+].theme/Bundles/com.Preferences.Settings/sk37chicon.png
+Name: 3 4 All [Glyphs Fuel][iP6+]
+
+Package: com.sk37ch.34allzeppelin
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Sk37cH <vee_man@live.com.au>
+Filename: .//debs/com.sk37ch.34allzeppelin.deb
+Size: 23000
+MD5sum: 4431390d26a8e84880b938722b10bd9b
+SHA1: ec3e97e2a36fb8c03e48b5974249ba3e7b66eb5d
+SHA256: 64557b9c2561a42f6d9e258221891cde4f7920f94c3d2c62e1b3238edceeda89
+Section: Addons (Zeppelin)
+Homepage: https://Sk37cHi.github.io/Depic/com.sk37ch.34allzeppelin/index.html
+Description: Retina Zeppelin Logos.
+ A collection of retina supported Zeppelin Logos.
+ Vector resized for your viewing pleasure.
+Author: Sk37cH <vee_man@live.com.au>
+Depiction: https://Sk37cHi.github.io/Depic/com.sk37ch.34allzeppelin/index.html
+Icon: file:///Applications/Cydia.app/Sections/Addons.png
+Name: 3 4 All [Zeppelin]
+
